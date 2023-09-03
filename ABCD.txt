@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-ABCD 1234
-=======
-ABCD branch1
-jv
->>>>>>> branch1
